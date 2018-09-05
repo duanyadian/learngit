@@ -6,4 +6,9 @@ Git is free software.
 Who am i?
 I'm learning git.
 Creating a new branch is quick and master.
+<<<<<<< Updated upstream
 liuye,I love you so much!
+=======
+kekeke
+haha
+>>>>>>> Stashed changes
