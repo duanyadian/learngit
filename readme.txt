@@ -5,4 +5,4 @@ Who am i?
 I'm learning git.
 Creating a new branch is quick and master.
 
-test
+学习git小网站：https://learngitbranching.js.org/?locale=zh_CN
